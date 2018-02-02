@@ -1,0 +1,7 @@
+D:\zxy\GitHub\learn\CSharpBook\QueueSample\obj\Debug\QueueSample.csprojResolveAssemblyReference.cache
+D:\zxy\GitHub\learn\CSharpBook\QueueSample\obj\Debug\QueueSample.csproj.CoreCompileInputs.cache
+D:\zxy\GitHub\learn\CSharpBook\QueueSample\bin\Debug\QueueSample.exe.config
+D:\zxy\GitHub\learn\CSharpBook\QueueSample\bin\Debug\QueueSample.exe
+D:\zxy\GitHub\learn\CSharpBook\QueueSample\bin\Debug\QueueSample.pdb
+D:\zxy\GitHub\learn\CSharpBook\QueueSample\obj\Debug\QueueSample.exe
+D:\zxy\GitHub\learn\CSharpBook\QueueSample\obj\Debug\QueueSample.pdb

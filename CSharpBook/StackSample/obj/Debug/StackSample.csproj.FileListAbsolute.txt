@@ -1,0 +1,7 @@
+D:\zxy\GitHub\learn\CSharpBook\StackSample\bin\Debug\StackSample.exe.config
+D:\zxy\GitHub\learn\CSharpBook\StackSample\bin\Debug\StackSample.exe
+D:\zxy\GitHub\learn\CSharpBook\StackSample\bin\Debug\StackSample.pdb
+D:\zxy\GitHub\learn\CSharpBook\StackSample\obj\Debug\StackSample.csprojResolveAssemblyReference.cache
+D:\zxy\GitHub\learn\CSharpBook\StackSample\obj\Debug\StackSample.csproj.CoreCompileInputs.cache
+D:\zxy\GitHub\learn\CSharpBook\StackSample\obj\Debug\StackSample.exe
+D:\zxy\GitHub\learn\CSharpBook\StackSample\obj\Debug\StackSample.pdb
