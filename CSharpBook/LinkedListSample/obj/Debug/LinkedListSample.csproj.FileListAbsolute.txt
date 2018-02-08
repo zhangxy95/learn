@@ -1,0 +1,7 @@
+D:\zxy\GitHub\learn\CSharpBook\LinkedListSample\bin\Debug\LinkedListSample.exe.config
+D:\zxy\GitHub\learn\CSharpBook\LinkedListSample\bin\Debug\LinkedListSample.exe
+D:\zxy\GitHub\learn\CSharpBook\LinkedListSample\bin\Debug\LinkedListSample.pdb
+D:\zxy\GitHub\learn\CSharpBook\LinkedListSample\obj\Debug\LinkedListSample.csprojResolveAssemblyReference.cache
+D:\zxy\GitHub\learn\CSharpBook\LinkedListSample\obj\Debug\LinkedListSample.csproj.CoreCompileInputs.cache
+D:\zxy\GitHub\learn\CSharpBook\LinkedListSample\obj\Debug\LinkedListSample.exe
+D:\zxy\GitHub\learn\CSharpBook\LinkedListSample\obj\Debug\LinkedListSample.pdb

@@ -10,7 +10,7 @@ namespace LinkedListSample
     {
         public string Title { get; private set; }
         public string Content { get; private set; }
-        public byte Priority { get; private set; }
+        public int Priority { get; private set; }
 
         public Document(string title,string content,byte priorty)
         {

@@ -33,7 +33,7 @@ namespace LinkedListSample
             AddDocumentToPriorityNode(d, d.Priority);
         }
 
-        private void AddDocumentToPriorityNode(Document doc, byte priority)
+        private void AddDocumentToPriorityNode(Document doc, int priority)
         {
             //检查优先级范围
             if (priority > 9 || priority < 0)
@@ -85,6 +85,7 @@ namespace LinkedListSample
             {
                 Console.WriteLine("priority:{0},title {1}", doc.Priority, doc.Title);
             }
+            Console.ReadKey();
         }
 
         public Document GetDocument()
