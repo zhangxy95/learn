@@ -1,0 +1,7 @@
+D:\zxy\GitHub\learn\CSharpBook\Foundation\bin\Debug\Foundation.exe.config
+D:\zxy\GitHub\learn\CSharpBook\Foundation\bin\Debug\Foundation.exe
+D:\zxy\GitHub\learn\CSharpBook\Foundation\bin\Debug\Foundation.pdb
+D:\zxy\GitHub\learn\CSharpBook\Foundation\obj\Debug\Foundation.csprojResolveAssemblyReference.cache
+D:\zxy\GitHub\learn\CSharpBook\Foundation\obj\Debug\Foundation.csproj.CoreCompileInputs.cache
+D:\zxy\GitHub\learn\CSharpBook\Foundation\obj\Debug\Foundation.exe
+D:\zxy\GitHub\learn\CSharpBook\Foundation\obj\Debug\Foundation.pdb

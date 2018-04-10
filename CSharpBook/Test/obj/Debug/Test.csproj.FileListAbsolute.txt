@@ -1,0 +1,7 @@
+D:\zxy\GitHub\learn\CSharpBook\Test\bin\Debug\Test.exe.config
+D:\zxy\GitHub\learn\CSharpBook\Test\bin\Debug\Test.exe
+D:\zxy\GitHub\learn\CSharpBook\Test\bin\Debug\Test.pdb
+D:\zxy\GitHub\learn\CSharpBook\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\zxy\GitHub\learn\CSharpBook\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\zxy\GitHub\learn\CSharpBook\Test\obj\Debug\Test.exe
+D:\zxy\GitHub\learn\CSharpBook\Test\obj\Debug\Test.pdb

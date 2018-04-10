@@ -1,0 +1,4 @@
+﻿  CTest.cpp
+d:\zxy\github\learn\csharpbook\ctest\ctest.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CTest.vcxproj -> D:\zxy\GitHub\learn\CSharpBook\Debug\CTest.exe
+  CTest.vcxproj -> D:\zxy\GitHub\learn\CSharpBook\Debug\CTest.pdb (Partial PDB)
